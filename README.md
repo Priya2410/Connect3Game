@@ -15,5 +15,5 @@
 - One cant't continue to place coins after a player wins
 
 ## Glimpse of the game
-<img src="Images/img1.jpeg"/>
-<img src="Images/img2.jpeg"/>
+<img src="Image/img1.jpeg" height="400px"/>
+<img src="Image/img2.jpeg" height="400px"/>
